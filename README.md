@@ -5,7 +5,7 @@ This project analyzes survey data related to international and intercultural lea
 ## Main Script: `bevi_analysis.py`
 
 - **Data Source:**
-  - The script loads data from an Excel file (update the path in the script as needed).
+  - The script loads data from an Excel file (update the path in the script as needed)
   - It expects columns such as `FinishOnUtc`, `Age`, `TimeInAnotherCountry`, `InterestInInternationalOrInterculturalLearning`, and `Gender`.
 
 - **Processing:**
